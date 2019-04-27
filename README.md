@@ -31,4 +31,4 @@ def func1(void):
 
 [GitHub](https://github.com "go to github")
 
-[[Home2]]
+[Home2]
