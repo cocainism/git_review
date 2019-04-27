@@ -31,4 +31,8 @@ def func1(void):
 
 [GitHub](https://github.com "go to github")
 
-[[https://github.com/cocainism/git_review/wiki]]
+[[https://github.com/cocainism/git_review/wiki|Home2]]
+
+*__text__*
+
+문단 중간에 `code`
