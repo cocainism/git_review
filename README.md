@@ -35,4 +35,4 @@ def func1(void):
 
 *__text__*
 
-문단 중간에 `code` 
+문단 중간에 `code` 넣는 방법!
