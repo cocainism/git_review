@@ -38,3 +38,10 @@ def func1(void):
 문단 중간에 `code` 넣는 방법!
 
 <https://google.com>
+
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
