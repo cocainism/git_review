@@ -12,9 +12,9 @@ hello markdown
 ###1234  
 
 - item1  
-- item2  
-- item3  
+* item2  
++ item3  
 
 1. a
-2. b
+  2. b
 3. c
