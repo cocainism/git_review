@@ -31,4 +31,4 @@ def func1(void):
 
 [GitHub](https://github.com "go to github")
 
-[Home2]
+[[https://github.com/cocainism/git_review/wiki]]
